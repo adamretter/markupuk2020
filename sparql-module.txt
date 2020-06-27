@@ -1,0 +1,14 @@
+# SPARQL Module
+
+* https://github.com/adamretter/exist-sparql
+
+exist-sparql-0.1.0-SNAPSHOT-exist.jar
+
+```
+      <dependency>
+        <groupId>org.exist-db.xquery.apps</groupId>
+        <artifactId>exist-sparql</artifactId>
+        <version>0.1.0-SNAPSHOT</version>
+        <relativePath>exist-sparql-0.1.0-SNAPSHOT-exist.jar</relativePath>
+      </dependency>
+```

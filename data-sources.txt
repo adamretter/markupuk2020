@@ -1,0 +1,19 @@
+# Data Sources
+
+
+1. XML - National Library of Medicine - Pubmed - keyword "covid"
+* https://pubmed.ncbi.nlm.nih.gov/?term=covid%2019&sort=date
+* https://eutils.ncbi.nlm.nih.gov/entrez/eutils/
+
+2. CSV - Provisional COVID-19 Death Counts by Sex, Age, and State
+* https://data.cdc.gov/NCHS/Provisional-COVID-19-Death-Counts-by-Sex-Age-and-S/9bhg-hcku
+* https://data.cdc.gov/api/views/9bhg-hcku/rows.csv?accessType=DOWNLOAD
+
+3. RDF - HHS Provider Relief Fund
+* https://data.cdc.gov/Administrative/HHS-Provider-Relief-Fund/kh8y-3es6
+* https://data.cdc.gov/api/views/kh8y-3es6/rows.rdf?accessType=DOWNLOAD
+
+4. JSON - World Population Review - State Names and Abbreviations
+https://worldpopulationreview.com/states/state-abbreviations/
+* https://worldpopulationreview.com/static/states/abbr-name.json
+* https://worldpopulationreview.com/static/states/name-abbr.json

@@ -1,0 +1,12 @@
+# JDBC Drivers
+
+* MariaDB - https://downloads.mariadb.com/Connectors/java/connector-java-2.6.0/
+
+```
+      <dependency>
+        <groupId>org.mariadb.jdbc</groupId>
+        <artifactId>mariadb-java-client</artifactId>
+        <version>2.6.0</version>
+        <relativePath>mariadb-java-client-2.6.0.jar</relativePath>
+      </dependency>
+```
